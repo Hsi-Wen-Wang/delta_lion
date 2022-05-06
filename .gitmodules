@@ -1,0 +1,6 @@
+[submodule "deps/delta_lib"]
+	path = deps/delta_lib
+	url = git@gitlab.ical.tw:b1065144/delta_lib.git
+[submodule "deps/serial"]
+	path = deps/serial
+	url = git@gitlab.ical.tw:b1065144/serial.git
